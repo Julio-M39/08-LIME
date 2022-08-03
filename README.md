@@ -11,5 +11,5 @@ Na imagem abaixo podemos observar a imagem original e a classificação realizad
 <img src="https://user-images.githubusercontent.com/54995990/182652724-b5773b68-9398-48a6-8e67-9f21c081ea30.png" width="600px" />
 </div>
 
-Os resultados obtidos pelo modelo não são os melhores, devido a vários fatores porém é possível notar o comportamento do modelo e suas previsões utilizando o LIME.
+Os resultados obtidos pelo modelo não são os melhores, devido a vários fatores porém é possível notar o comportamento do modelo e suas previsões utilizando o LIME. Então podemos concluir que o LIME é bastante util para a interpretação dos resultados obtidos pelas redes neurais convolucionais.
  
